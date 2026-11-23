@@ -1,0 +1,4 @@
+# nested git repositories (managed separately)
+libgit2/
+day1/
+new-project/
